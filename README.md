@@ -1,1 +1,1 @@
-# pdeschool
+# PDE Summer School
