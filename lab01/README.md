@@ -30,7 +30,7 @@
       ``dealvm-install pdeschool2019``
       in a terminal window. This will create a directory
       ``~/pdeschool2019``. Rerunning the command will update to the latest
-      version.
+      version. Please close the terminal and open a new one after typing this.
 
     - The following directories are of interest:
         - ``pdeschool2019/`` -- Here you can find the lecture notes, exercises, codes, etc.
@@ -53,14 +53,14 @@
             ./step-1
 	```
 
-    -   IDE: open ``qtcreator .`` and uncheck the ``Desktop`` kit.
+    -   IDE: open ``qtcreator .`` in the directory of the example and uncheck the ``Desktop`` kit.
 
 2.  Tasks for tutorial step-1:
 
     1.  See documentation at\
         <https://www.dealii.org/current/doxygen/deal.II/step_1.html>
 
-    2.  ``~/pdeschool2019/lab01/step-1/`` already constains a clean version of
+    2.  ``~/pdeschool2019/lab01/step-1/`` already contains a clean version of
          step-1 for you to work with (we removed the extensive comments using
          ``make strip-comments`` in the file, see above to find the original
          version).
