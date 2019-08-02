@@ -1,4 +1,4 @@
-#  Lab 01 Getting Started and step-1
+#  Lab 04 Convergence and computing errors (step-4)
 ## Computational Methods for PDEs Summer School 2019
 
 * * * * *
