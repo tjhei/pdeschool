@@ -1,0 +1,9 @@
+*~
+**/CMakeFiles/
+*CMakeCache.txt
+*Makefile
+*.eps
+*.vtk
+*.txt.user
+*.cbp
+*cmake
