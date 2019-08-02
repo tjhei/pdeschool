@@ -53,7 +53,7 @@
             ./step-1
 	```
 
-    -   IDE: open ``qtcreator .``
+    -   IDE: open ``qtcreator .`` and uncheck the ``Desktop`` kit.
 
 2.  Tasks for tutorial step-1:
 
@@ -65,9 +65,9 @@
          ``make strip-comments`` in the file, see above to find the original
          version).
 
-    3.  Compile and run inside qtcreator and look at the output files. You can
-        view ``.eps`` files with ``gv <filename>``, for example ``gv
-        grid-1.eps``.
+    3.  Setup the project using ``cmake .`` and then compile and run inside
+        qtcreator and look at the output files. You can view ``.eps`` files
+        with ``gv <filename>``, for example ``gv grid-1.eps``.
 
     4.  Looking at .eps files is somewhat clunky. Switch to outputting
         ``.svg`` files instead as they open in firefox (can you guess the
