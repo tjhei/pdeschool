@@ -39,6 +39,7 @@
 
 6.  Bonus: Switch to the "regularized cavity" as described in
     <https://www.sciencedirect.com/science/article/pii/S1007570418303575>\
-    Hint: see formula (3).\
+    Hint: see formula (3) but pay attention to the fact that they define the
+    domain from -1 to 1 instead of 0 to 1 so you have to adjust it.\
     Compare the output for Re 1000 with Fig 1.
     What is the largest Re you are able to solve?
